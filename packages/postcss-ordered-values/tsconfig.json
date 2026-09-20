@@ -1,0 +1,20 @@
+{
+  "extends": "../../tsconfig.json",
+  "include": [
+    "src/*",
+    "src/rules/*",
+    "src/lib/*",
+    "src/rules/listStyleTypes.json",
+    "src/rules/easingFunctions.json"
+  ],
+  "compilerOptions": {
+    "composite": true,
+    "rootDir": "src/",
+    "declarationDir": "types"
+  },
+  "references": [
+    {
+      "path": "../cssnano-utils"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+# Package manager
+node_modules
+
+# Build
+dist
+_webpackOutput
+tsconfig.tsbuildinfo
+
+# Cache
+.cache
+.eslintcache
+
+# Testing
+.nyc_output
+coverage
+lcov.info
+
+# Benchmarks
+bench-results
+
+# Env
+.env.local
+.env.*.local
+
+# Logging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+.test-failures.json
+
+# Editor
+.idea
+.vscode
+.history
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated
+.DS_Store
+
+# Generated website files
+site/_astro-site/
+site/.astro/
+
+# Demo lockfile
+example-cli-usage/package-lock.json

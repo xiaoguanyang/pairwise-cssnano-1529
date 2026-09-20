@@ -1,0 +1,68 @@
+{
+  "name": "postcss-merge-rules",
+  "version": "9.0.4",
+  "description": "Merge CSS rules with PostCSS.",
+  "exports": {
+    ".": {
+      "types": "./types/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./src/index.js",
+  "types": "./types/index.d.ts",
+  "imports": {
+    "#getBrowsersList": {
+      "node": "./src/lib/computeBrowsersToSupport.js",
+      "default": "./src/lib/getBrowsersForWebBuild.js"
+    }
+  },
+  "files": [
+    "LICENSE-MIT",
+    "src",
+    "types"
+  ],
+  "keywords": [
+    "css",
+    "optimise",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cssnano/cssnano",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "https://beneb.info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssnano/cssnano.git"
+  },
+  "dependencies": {
+    "browserslist": "catalog:",
+    "caniuse-api": "^4.0.0",
+    "cssnano-utils": "workspace:^",
+    "postcss-selector-parser": "catalog:"
+  },
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "engines": {
+    "node": "^22.22.3 || ^24.15.0 || >=26.0"
+  },
+  "devDependencies": {
+    "@webref/css": "catalog:",
+    "postcss": "catalog:",
+    "postcss-discard-comments": "workspace:^",
+    "postcss-simple-vars": "^7.0.1"
+  },
+  "peerDependencies": {
+    "postcss": "^8.5.28"
+  },
+  "scripts": {
+    "acquire": "node ./script/acquire.mjs",
+    "test": "node --test"
+  },
+  "type": "module"
+}

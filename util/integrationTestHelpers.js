@@ -1,0 +1,151 @@
+'use strict';
+const path = require('node:path');
+const fs = require('node:fs');
+const postcss = require('postcss');
+const assert = require('node:assert/strict');
+const cssnano = require('../packages/cssnano/src/index.js');
+const { processCSSFactory } = require('./testHelpers.js');
+
+function processCSSWithPresetFactory(preset) {
+  return processCSSFactory([cssnano({ preset })]);
+}
+
+function createCssnanoProcessor(preset) {
+  return postcss(cssnano({ preset }));
+}
+
+function firstDifference(actual, expected) {
+  let index = 0;
+  while (
+    index < actual.length &&
+    index < expected.length &&
+    actual[index] === expected[index]
+  ) {
+    index++;
+  }
+  return index;
+}
+
+function mismatchMessage(framework, actual, expected) {
+  const index = firstDifference(actual, expected);
+  const context = 40;
+  const start = Math.max(0, index - context);
+  const end = index + context;
+  return [
+    `Framework "${framework}" output differs at character ${index}`,
+    `actual  (${actual.length} chars): ${JSON.stringify(actual.slice(start, end))}`,
+    `expected (${expected.length} chars): ${JSON.stringify(expected.slice(start, end))}`,
+  ].join('\n');
+}
+
+function integrationTests(preset, integrations) {
+  const presetName = path.basename(path.resolve(integrations, '../..'));
+  const frameworks = new Map();
+  for (const framework of fs.readdirSync(
+    path.join(__dirname, '../frameworks')
+  )) {
+    frameworks.set(
+      path.basename(framework, '.css'),
+      fs.readFileSync(path.join(__dirname, '../frameworks', framework), 'utf8')
+    );
+  }
+
+  return async (t) =>
+    Promise.allSettled(
+      Array.from(frameworks, ([framework, css]) =>
+        t.test(`${presetName} - ${framework}`, async () => {
+          const result = await postcss([cssnano({ preset })]).process(css, {
+            from: undefined,
+          });
+          const expected = fs.readFileSync(
+            path.join(integrations, `${framework}.css`),
+            'utf8'
+          );
+          if (result.css !== expected) {
+            assert.fail(mismatchMessage(framework, result.css, expected));
+          }
+        })
+      )
+    );
+}
+
+function idempotencyTests(preset, integrations) {
+  const presetName = path.basename(path.resolve(integrations, '../..'));
+  const integrationsByFramework = new Map();
+  for (const integration of fs.readdirSync(integrations)) {
+    if (path.extname(integration) === '.css') {
+      integrationsByFramework.set(
+        path.basename(integration, '.css'),
+        fs.readFileSync(path.join(integrations, integration), 'utf8')
+      );
+    }
+  }
+
+  return async (t) =>
+    Promise.allSettled(
+      Array.from(integrationsByFramework, ([framework, css]) =>
+        t.test(`${presetName} - ${framework}`, async () => {
+          const result = await postcss([cssnano({ preset })]).process(css, {
+            from: undefined,
+          });
+          if (result.css !== css) {
+            assert.fail(mismatchMessage(framework, result.css, css));
+          }
+        })
+      )
+    );
+}
+
+function pluginIdempotencyTests(preset, integrations, excludedPlugins = []) {
+  const presetName = path.basename(path.resolve(integrations, '../..'));
+  const frameworks = [];
+  for (const file of fs.readdirSync(integrations)) {
+    if (path.extname(file) === '.css') {
+      frameworks.push({
+        name: path.basename(file, '.css'),
+        css: fs.readFileSync(path.join(integrations, file), 'utf8'),
+      });
+    }
+  }
+  const aggregateCSS = frameworks
+    .map(({ name, css: frameworkCSS }) => `/* ${name} */\n${frameworkCSS}`)
+    .join('\n');
+
+  const plugins = [];
+  for (const [creator, options] of preset().plugins) {
+    const plugin = creator(options);
+    if (!excludedPlugins.includes(plugin.postcssPlugin)) {
+      plugins.push({ creator, options, name: plugin.postcssPlugin });
+    }
+  }
+
+  return async (t) => {
+    const tests = [];
+    for (const plugin of plugins) {
+      tests.push(
+        t.test(`${presetName} - ${plugin.name}`, async () => {
+          const firstPass = await postcss([
+            plugin.creator(plugin.options),
+          ]).process(aggregateCSS, { from: undefined });
+          const secondPass = await postcss([
+            plugin.creator(plugin.options),
+          ]).process(firstPass.css, { from: undefined });
+          if (secondPass.css !== firstPass.css) {
+            assert.fail(
+              mismatchMessage(plugin.name, secondPass.css, firstPass.css)
+            );
+          }
+        })
+      );
+    }
+    return Promise.allSettled(tests);
+  };
+}
+
+module.exports = {
+  processCSSWithPresetFactory,
+  createCssnanoProcessor,
+  integrationTests,
+  idempotencyTests,
+  pluginIdempotencyTests,
+};

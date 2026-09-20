@@ -1,0 +1,1445 @@
+cssnano-preset-advanced@8.0.10:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - khaki-pillows-rest
+cssnano-preset-advanced@8.0.3:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - shaky-ads-call
+    - sunny-bags-smell
+    - tiny-oranges-kneel
+    - tough-planes-say
+    - tough-snails-behave
+cssnano-preset-advanced@8.0.4:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - every-teeth-stay
+    - petite-cobras-send
+cssnano-preset-advanced@8.0.5:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - bumpy-ideas-double
+    - strong-eggs-do
+cssnano-preset-advanced@8.0.6:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - olive-donkeys-shout
+    - olive-pandas-refuse
+    - quiet-otters-drum
+    - salty-dolls-enter
+    - smooth-heads-tickle
+    - tall-moons-repeat
+cssnano-preset-advanced@8.0.7:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - cool-toes-fail
+    - fast-radios-love
+    - tame-otters-race
+    - tender-falcons-drive
+    - tidy-plums-shout
+cssnano-preset-advanced@8.0.8:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - free-games-build
+cssnano-preset-advanced@8.0.9:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - clever-vans-wash
+cssnano-preset-advanced@9.0.0:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - native-esm-migration
+    - true-cycles-beg
+cssnano-preset-advanced@9.0.1:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - light-symbols-hear
+    - whole-spoons-try
+cssnano-preset-advanced@9.0.2:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - blue-paws-crash
+cssnano-preset-advanced@9.0.3:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - dry-poems-taste
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+cssnano-preset-advanced@9.0.4:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - young-knives-greet
+cssnano-preset-advanced@9.0.5:
+  dir: packages/cssnano-preset-advanced
+  intents:
+    - honest-doors-call
+    - proud-melons-scream
+    - tidy-rabbits-fry
+    - wild-hairs-bow
+cssnano-preset-default@8.0.10:
+  dir: packages/cssnano-preset-default
+  intents:
+    - khaki-pillows-rest
+cssnano-preset-default@8.0.3:
+  dir: packages/cssnano-preset-default
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tiny-oranges-kneel
+    - tough-planes-say
+    - tough-snails-behave
+cssnano-preset-default@8.0.4:
+  dir: packages/cssnano-preset-default
+  intents:
+    - every-teeth-stay
+    - petite-cobras-send
+cssnano-preset-default@8.0.5:
+  dir: packages/cssnano-preset-default
+  intents:
+    - bumpy-ideas-double
+    - strong-eggs-do
+cssnano-preset-default@8.0.6:
+  dir: packages/cssnano-preset-default
+  intents:
+    - olive-donkeys-shout
+    - olive-pandas-refuse
+    - quiet-otters-drum
+    - salty-dolls-enter
+    - smooth-heads-tickle
+    - tall-moons-repeat
+cssnano-preset-default@8.0.7:
+  dir: packages/cssnano-preset-default
+  intents:
+    - cool-toes-fail
+    - fast-radios-love
+    - tame-otters-race
+    - tender-falcons-drive
+    - tidy-plums-shout
+cssnano-preset-default@8.0.8:
+  dir: packages/cssnano-preset-default
+  intents:
+    - free-games-build
+cssnano-preset-default@8.0.9:
+  dir: packages/cssnano-preset-default
+  intents:
+    - clever-vans-wash
+cssnano-preset-default@9.0.0:
+  dir: packages/cssnano-preset-default
+  intents:
+    - native-esm-migration
+    - true-cycles-beg
+cssnano-preset-default@9.0.1:
+  dir: packages/cssnano-preset-default
+  intents:
+    - light-symbols-hear
+    - whole-spoons-try
+cssnano-preset-default@9.0.2:
+  dir: packages/cssnano-preset-default
+  intents:
+    - blue-paws-crash
+    - cuddly-schools-battle
+cssnano-preset-default@9.0.3:
+  dir: packages/cssnano-preset-default
+  intents:
+    - dry-poems-taste
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+cssnano-preset-default@9.0.4:
+  dir: packages/cssnano-preset-default
+  intents:
+    - young-knives-greet
+cssnano-preset-default@9.0.5:
+  dir: packages/cssnano-preset-default
+  intents:
+    - honest-doors-call
+    - proud-melons-scream
+    - tidy-rabbits-fry
+    - wild-hairs-bow
+cssnano-preset-lite@5.0.2:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+cssnano-preset-lite@5.0.3:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - strong-eggs-do
+cssnano-preset-lite@5.0.4:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - salty-dolls-enter
+cssnano-preset-lite@5.0.5:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - tender-falcons-drive
+    - tidy-plums-shout
+cssnano-preset-lite@5.0.6:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - khaki-pillows-rest
+cssnano-preset-lite@6.0.0:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - native-esm-migration
+cssnano-preset-lite@6.0.1:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - blue-paws-crash
+cssnano-preset-lite@6.0.2:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+cssnano-preset-lite@6.0.3:
+  dir: packages/cssnano-preset-lite
+  intents:
+    - honest-doors-call
+cssnano-utils@6.0.2:
+  dir: packages/cssnano-utils
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+cssnano-utils@6.0.3:
+  dir: packages/cssnano-utils
+  intents:
+    - strong-eggs-do
+cssnano-utils@6.0.4:
+  dir: packages/cssnano-utils
+  intents:
+    - salty-dolls-enter
+cssnano-utils@7.0.0:
+  dir: packages/cssnano-utils
+  intents:
+    - native-esm-migration
+cssnano-utils@7.0.1:
+  dir: packages/cssnano-utils
+  intents:
+    - blue-paws-crash
+cssnano-utils@7.0.2:
+  dir: packages/cssnano-utils
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+cssnano-utils@7.0.3:
+  dir: packages/cssnano-utils
+  intents:
+    - honest-doors-call
+cssnano@8.0.10:
+  dir: packages/cssnano
+  intents:
+    - khaki-pillows-rest
+cssnano@8.0.3:
+  dir: packages/cssnano
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tiny-oranges-kneel
+    - tough-planes-say
+    - tough-snails-behave
+cssnano@8.0.4:
+  dir: packages/cssnano
+  intents:
+    - every-teeth-stay
+    - petite-cobras-send
+cssnano@8.0.5:
+  dir: packages/cssnano
+  intents:
+    - bumpy-ideas-double
+    - strong-eggs-do
+cssnano@8.0.6:
+  dir: packages/cssnano
+  intents:
+    - huge-ducks-shave
+    - olive-donkeys-shout
+    - olive-pandas-refuse
+    - quiet-otters-drum
+    - salty-dolls-enter
+    - smooth-heads-tickle
+    - tall-moons-repeat
+cssnano@8.0.7:
+  dir: packages/cssnano
+  intents:
+    - cool-toes-fail
+    - fast-radios-love
+    - silver-glasses-draw
+    - tame-otters-race
+    - tender-falcons-drive
+    - tidy-plums-shout
+cssnano@8.0.8:
+  dir: packages/cssnano
+  intents:
+    - free-games-build
+cssnano@8.0.9:
+  dir: packages/cssnano
+  intents:
+    - clever-vans-wash
+cssnano@9.0.0:
+  dir: packages/cssnano
+  intents:
+    - early-mangos-share
+    - local-cssnano-config
+    - native-esm-migration
+    - true-cycles-beg
+cssnano@9.0.1:
+  dir: packages/cssnano
+  intents:
+    - light-symbols-hear
+    - whole-spoons-try
+cssnano@9.0.2:
+  dir: packages/cssnano
+  intents:
+    - blue-paws-crash
+cssnano@9.0.3:
+  dir: packages/cssnano
+  intents:
+    - dry-poems-taste
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+cssnano@9.0.4:
+  dir: packages/cssnano
+  intents:
+    - young-knives-greet
+cssnano@9.0.5:
+  dir: packages/cssnano
+  intents:
+    - honest-doors-call
+    - proud-melons-scream
+    - tidy-rabbits-fry
+    - wild-hairs-bow
+postcss-colormin@8.0.2:
+  dir: packages/postcss-colormin
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-colormin@8.0.3:
+  dir: packages/postcss-colormin
+  intents:
+    - strong-eggs-do
+postcss-colormin@8.0.4:
+  dir: packages/postcss-colormin
+  intents:
+    - salty-dolls-enter
+postcss-colormin@8.0.5:
+  dir: packages/postcss-colormin
+  intents:
+    - heavy-banks-laugh
+postcss-colormin@9.0.0:
+  dir: packages/postcss-colormin
+  intents:
+    - native-esm-migration
+postcss-colormin@9.0.1:
+  dir: packages/postcss-colormin
+  intents:
+    - blue-paws-crash
+postcss-colormin@9.0.2:
+  dir: packages/postcss-colormin
+  intents:
+    - dry-poems-taste
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-colormin@9.0.3:
+  dir: packages/postcss-colormin
+  intents:
+    - honest-doors-call
+    - wild-hairs-bow
+postcss-convert-values@8.0.2:
+  dir: packages/postcss-convert-values
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-convert-values@8.0.3:
+  dir: packages/postcss-convert-values
+  intents:
+    - strong-eggs-do
+postcss-convert-values@8.0.4:
+  dir: packages/postcss-convert-values
+  intents:
+    - salty-dolls-enter
+postcss-convert-values@9.0.0:
+  dir: packages/postcss-convert-values
+  intents:
+    - native-esm-migration
+postcss-convert-values@9.0.1:
+  dir: packages/postcss-convert-values
+  intents:
+    - blue-paws-crash
+postcss-convert-values@9.0.2:
+  dir: packages/postcss-convert-values
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-convert-values@9.0.3:
+  dir: packages/postcss-convert-values
+  intents:
+    - honest-doors-call
+postcss-discard-comments@8.0.2:
+  dir: packages/postcss-discard-comments
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-discard-comments@8.0.3:
+  dir: packages/postcss-discard-comments
+  intents:
+    - strong-eggs-do
+postcss-discard-comments@8.0.4:
+  dir: packages/postcss-discard-comments
+  intents:
+    - salty-dolls-enter
+postcss-discard-comments@9.0.0:
+  dir: packages/postcss-discard-comments
+  intents:
+    - native-esm-migration
+postcss-discard-comments@9.0.1:
+  dir: packages/postcss-discard-comments
+  intents:
+    - blue-paws-crash
+postcss-discard-comments@9.0.2:
+  dir: packages/postcss-discard-comments
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-discard-comments@9.0.3:
+  dir: packages/postcss-discard-comments
+  intents:
+    - honest-doors-call
+postcss-discard-duplicates@8.0.2:
+  dir: packages/postcss-discard-duplicates
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-discard-duplicates@8.0.3:
+  dir: packages/postcss-discard-duplicates
+  intents:
+    - strong-eggs-do
+postcss-discard-duplicates@8.0.4:
+  dir: packages/postcss-discard-duplicates
+  intents:
+    - salty-dolls-enter
+postcss-discard-duplicates@9.0.0:
+  dir: packages/postcss-discard-duplicates
+  intents:
+    - native-esm-migration
+postcss-discard-duplicates@9.0.1:
+  dir: packages/postcss-discard-duplicates
+  intents:
+    - blue-paws-crash
+postcss-discard-duplicates@9.0.2:
+  dir: packages/postcss-discard-duplicates
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-discard-duplicates@9.0.3:
+  dir: packages/postcss-discard-duplicates
+  intents:
+    - honest-doors-call
+postcss-discard-empty@8.0.2:
+  dir: packages/postcss-discard-empty
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-discard-empty@8.0.3:
+  dir: packages/postcss-discard-empty
+  intents:
+    - strong-eggs-do
+postcss-discard-empty@8.0.4:
+  dir: packages/postcss-discard-empty
+  intents:
+    - salty-dolls-enter
+postcss-discard-empty@8.0.5:
+  dir: packages/postcss-discard-empty
+  intents:
+    - tender-falcons-drive
+postcss-discard-empty@9.0.0:
+  dir: packages/postcss-discard-empty
+  intents:
+    - native-esm-migration
+postcss-discard-empty@9.0.1:
+  dir: packages/postcss-discard-empty
+  intents:
+    - blue-paws-crash
+postcss-discard-empty@9.0.2:
+  dir: packages/postcss-discard-empty
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-discard-empty@9.0.3:
+  dir: packages/postcss-discard-empty
+  intents:
+    - honest-doors-call
+postcss-discard-overridden@8.0.2:
+  dir: packages/postcss-discard-overridden
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-discard-overridden@8.0.3:
+  dir: packages/postcss-discard-overridden
+  intents:
+    - strong-eggs-do
+postcss-discard-overridden@8.0.4:
+  dir: packages/postcss-discard-overridden
+  intents:
+    - salty-dolls-enter
+postcss-discard-overridden@9.0.0:
+  dir: packages/postcss-discard-overridden
+  intents:
+    - native-esm-migration
+postcss-discard-overridden@9.0.1:
+  dir: packages/postcss-discard-overridden
+  intents:
+    - blue-paws-crash
+postcss-discard-overridden@9.0.2:
+  dir: packages/postcss-discard-overridden
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-discard-overridden@9.0.3:
+  dir: packages/postcss-discard-overridden
+  intents:
+    - honest-doors-call
+postcss-discard-unused@8.0.2:
+  dir: packages/postcss-discard-unused
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-discard-unused@8.0.3:
+  dir: packages/postcss-discard-unused
+  intents:
+    - strong-eggs-do
+postcss-discard-unused@8.0.4:
+  dir: packages/postcss-discard-unused
+  intents:
+    - salty-dolls-enter
+postcss-discard-unused@9.0.0:
+  dir: packages/postcss-discard-unused
+  intents:
+    - native-esm-migration
+postcss-discard-unused@9.0.1:
+  dir: packages/postcss-discard-unused
+  intents:
+    - blue-paws-crash
+postcss-discard-unused@9.0.2:
+  dir: packages/postcss-discard-unused
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-discard-unused@9.0.3:
+  dir: packages/postcss-discard-unused
+  intents:
+    - honest-doors-call
+postcss-merge-idents@8.0.2:
+  dir: packages/postcss-merge-idents
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-merge-idents@8.0.3:
+  dir: packages/postcss-merge-idents
+  intents:
+    - strong-eggs-do
+postcss-merge-idents@8.0.4:
+  dir: packages/postcss-merge-idents
+  intents:
+    - salty-dolls-enter
+postcss-merge-idents@9.0.0:
+  dir: packages/postcss-merge-idents
+  intents:
+    - native-esm-migration
+postcss-merge-idents@9.0.1:
+  dir: packages/postcss-merge-idents
+  intents:
+    - blue-paws-crash
+postcss-merge-idents@9.0.2:
+  dir: packages/postcss-merge-idents
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-merge-idents@9.0.3:
+  dir: packages/postcss-merge-idents
+  intents:
+    - honest-doors-call
+postcss-merge-longhand@8.0.2:
+  dir: packages/postcss-merge-longhand
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-merge-longhand@8.0.3:
+  dir: packages/postcss-merge-longhand
+  intents:
+    - bumpy-ideas-double
+    - strong-eggs-do
+postcss-merge-longhand@8.0.4:
+  dir: packages/postcss-merge-longhand
+  intents:
+    - quiet-otters-drum
+    - salty-dolls-enter
+postcss-merge-longhand@9.0.0:
+  dir: packages/postcss-merge-longhand
+  intents:
+    - native-esm-migration
+postcss-merge-longhand@9.0.1:
+  dir: packages/postcss-merge-longhand
+  intents:
+    - whole-spoons-try
+postcss-merge-longhand@9.0.2:
+  dir: packages/postcss-merge-longhand
+  intents:
+    - blue-paws-crash
+postcss-merge-longhand@9.0.3:
+  dir: packages/postcss-merge-longhand
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-merge-longhand@9.0.4:
+  dir: packages/postcss-merge-longhand
+  intents:
+    - honest-doors-call
+postcss-merge-rules@8.0.2:
+  dir: packages/postcss-merge-rules
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-merge-rules@8.0.3:
+  dir: packages/postcss-merge-rules
+  intents:
+    - strong-eggs-do
+postcss-merge-rules@8.0.4:
+  dir: packages/postcss-merge-rules
+  intents:
+    - olive-donkeys-shout
+    - olive-pandas-refuse
+    - salty-dolls-enter
+    - smooth-heads-tickle
+postcss-merge-rules@8.0.5:
+  dir: packages/postcss-merge-rules
+  intents:
+    - tame-otters-race
+postcss-merge-rules@9.0.0:
+  dir: packages/postcss-merge-rules
+  intents:
+    - native-esm-migration
+postcss-merge-rules@9.0.1:
+  dir: packages/postcss-merge-rules
+  intents:
+    - greedy-merge-rules-worklist
+    - whole-spoons-try
+postcss-merge-rules@9.0.2:
+  dir: packages/postcss-merge-rules
+  intents:
+    - blue-paws-crash
+postcss-merge-rules@9.0.3:
+  dir: packages/postcss-merge-rules
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-merge-rules@9.0.4:
+  dir: packages/postcss-merge-rules
+  intents:
+    - honest-doors-call
+postcss-minify-font-values@8.0.2:
+  dir: packages/postcss-minify-font-values
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-minify-font-values@8.0.3:
+  dir: packages/postcss-minify-font-values
+  intents:
+    - strong-eggs-do
+postcss-minify-font-values@8.0.4:
+  dir: packages/postcss-minify-font-values
+  intents:
+    - salty-dolls-enter
+postcss-minify-font-values@9.0.0:
+  dir: packages/postcss-minify-font-values
+  intents:
+    - native-esm-migration
+postcss-minify-font-values@9.0.1:
+  dir: packages/postcss-minify-font-values
+  intents:
+    - blue-paws-crash
+postcss-minify-font-values@9.0.2:
+  dir: packages/postcss-minify-font-values
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-minify-font-values@9.0.3:
+  dir: packages/postcss-minify-font-values
+  intents:
+    - honest-doors-call
+postcss-minify-gradients@8.0.2:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - small-stars-write
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-minify-gradients@8.0.3:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - strong-eggs-do
+postcss-minify-gradients@8.0.4:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - salty-dolls-enter
+postcss-minify-gradients@8.0.5:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - free-games-build
+postcss-minify-gradients@8.0.6:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - heavy-banks-laugh
+postcss-minify-gradients@9.0.0:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - native-esm-migration
+postcss-minify-gradients@9.0.1:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - blue-paws-crash
+postcss-minify-gradients@9.0.2:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - dry-poems-taste
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-minify-gradients@9.0.3:
+  dir: packages/postcss-minify-gradients
+  intents:
+    - honest-doors-call
+    - wild-hairs-bow
+postcss-minify-params@8.0.2:
+  dir: packages/postcss-minify-params
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-minify-params@8.0.3:
+  dir: packages/postcss-minify-params
+  intents:
+    - strong-eggs-do
+postcss-minify-params@8.0.4:
+  dir: packages/postcss-minify-params
+  intents:
+    - salty-dolls-enter
+postcss-minify-params@9.0.0:
+  dir: packages/postcss-minify-params
+  intents:
+    - native-esm-migration
+postcss-minify-params@9.0.1:
+  dir: packages/postcss-minify-params
+  intents:
+    - blue-paws-crash
+postcss-minify-params@9.0.2:
+  dir: packages/postcss-minify-params
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-minify-params@9.0.3:
+  dir: packages/postcss-minify-params
+  intents:
+    - honest-doors-call
+postcss-minify-selectors@8.0.3:
+  dir: packages/postcss-minify-selectors
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-minify-selectors@8.0.4:
+  dir: packages/postcss-minify-selectors
+  intents:
+    - strong-eggs-do
+postcss-minify-selectors@8.0.5:
+  dir: packages/postcss-minify-selectors
+  intents:
+    - huge-ducks-shave
+    - salty-dolls-enter
+postcss-minify-selectors@9.0.0:
+  dir: packages/postcss-minify-selectors
+  intents:
+    - native-esm-migration
+postcss-minify-selectors@9.0.1:
+  dir: packages/postcss-minify-selectors
+  intents:
+    - light-symbols-hear
+postcss-minify-selectors@9.0.2:
+  dir: packages/postcss-minify-selectors
+  intents:
+    - blue-paws-crash
+postcss-minify-selectors@9.0.3:
+  dir: packages/postcss-minify-selectors
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-minify-selectors@9.0.4:
+  dir: packages/postcss-minify-selectors
+  intents:
+    - honest-doors-call
+postcss-normalize-charset@8.0.2:
+  dir: packages/postcss-normalize-charset
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-charset@8.0.3:
+  dir: packages/postcss-normalize-charset
+  intents:
+    - strong-eggs-do
+postcss-normalize-charset@8.0.4:
+  dir: packages/postcss-normalize-charset
+  intents:
+    - salty-dolls-enter
+postcss-normalize-charset@8.0.5:
+  dir: packages/postcss-normalize-charset
+  intents:
+    - khaki-pillows-rest
+postcss-normalize-charset@9.0.0:
+  dir: packages/postcss-normalize-charset
+  intents:
+    - native-esm-migration
+postcss-normalize-charset@9.0.1:
+  dir: packages/postcss-normalize-charset
+  intents:
+    - blue-paws-crash
+postcss-normalize-charset@9.0.2:
+  dir: packages/postcss-normalize-charset
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-charset@9.0.3:
+  dir: packages/postcss-normalize-charset
+  intents:
+    - honest-doors-call
+postcss-normalize-display-values@8.0.2:
+  dir: packages/postcss-normalize-display-values
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-display-values@8.0.3:
+  dir: packages/postcss-normalize-display-values
+  intents:
+    - strong-eggs-do
+postcss-normalize-display-values@8.0.4:
+  dir: packages/postcss-normalize-display-values
+  intents:
+    - salty-dolls-enter
+postcss-normalize-display-values@9.0.0:
+  dir: packages/postcss-normalize-display-values
+  intents:
+    - native-esm-migration
+postcss-normalize-display-values@9.0.1:
+  dir: packages/postcss-normalize-display-values
+  intents:
+    - blue-paws-crash
+postcss-normalize-display-values@9.0.2:
+  dir: packages/postcss-normalize-display-values
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-display-values@9.0.3:
+  dir: packages/postcss-normalize-display-values
+  intents:
+    - honest-doors-call
+postcss-normalize-positions@8.0.2:
+  dir: packages/postcss-normalize-positions
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-positions@8.0.3:
+  dir: packages/postcss-normalize-positions
+  intents:
+    - strong-eggs-do
+postcss-normalize-positions@8.0.4:
+  dir: packages/postcss-normalize-positions
+  intents:
+    - salty-dolls-enter
+postcss-normalize-positions@9.0.0:
+  dir: packages/postcss-normalize-positions
+  intents:
+    - native-esm-migration
+postcss-normalize-positions@9.0.1:
+  dir: packages/postcss-normalize-positions
+  intents:
+    - blue-paws-crash
+postcss-normalize-positions@9.0.2:
+  dir: packages/postcss-normalize-positions
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-positions@9.0.3:
+  dir: packages/postcss-normalize-positions
+  intents:
+    - honest-doors-call
+postcss-normalize-repeat-style@8.0.2:
+  dir: packages/postcss-normalize-repeat-style
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-repeat-style@8.0.3:
+  dir: packages/postcss-normalize-repeat-style
+  intents:
+    - strong-eggs-do
+postcss-normalize-repeat-style@8.0.4:
+  dir: packages/postcss-normalize-repeat-style
+  intents:
+    - salty-dolls-enter
+postcss-normalize-repeat-style@9.0.0:
+  dir: packages/postcss-normalize-repeat-style
+  intents:
+    - native-esm-migration
+postcss-normalize-repeat-style@9.0.1:
+  dir: packages/postcss-normalize-repeat-style
+  intents:
+    - blue-paws-crash
+postcss-normalize-repeat-style@9.0.2:
+  dir: packages/postcss-normalize-repeat-style
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-repeat-style@9.0.3:
+  dir: packages/postcss-normalize-repeat-style
+  intents:
+    - honest-doors-call
+postcss-normalize-string@8.0.2:
+  dir: packages/postcss-normalize-string
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-string@8.0.3:
+  dir: packages/postcss-normalize-string
+  intents:
+    - strong-eggs-do
+postcss-normalize-string@8.0.4:
+  dir: packages/postcss-normalize-string
+  intents:
+    - salty-dolls-enter
+postcss-normalize-string@9.0.0:
+  dir: packages/postcss-normalize-string
+  intents:
+    - native-esm-migration
+postcss-normalize-string@9.0.1:
+  dir: packages/postcss-normalize-string
+  intents:
+    - blue-paws-crash
+postcss-normalize-string@9.0.2:
+  dir: packages/postcss-normalize-string
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-string@9.0.3:
+  dir: packages/postcss-normalize-string
+  intents:
+    - honest-doors-call
+postcss-normalize-timing-functions@8.0.2:
+  dir: packages/postcss-normalize-timing-functions
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-timing-functions@8.0.3:
+  dir: packages/postcss-normalize-timing-functions
+  intents:
+    - strong-eggs-do
+postcss-normalize-timing-functions@8.0.4:
+  dir: packages/postcss-normalize-timing-functions
+  intents:
+    - salty-dolls-enter
+postcss-normalize-timing-functions@9.0.0:
+  dir: packages/postcss-normalize-timing-functions
+  intents:
+    - native-esm-migration
+postcss-normalize-timing-functions@9.0.1:
+  dir: packages/postcss-normalize-timing-functions
+  intents:
+    - blue-paws-crash
+postcss-normalize-timing-functions@9.0.2:
+  dir: packages/postcss-normalize-timing-functions
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-timing-functions@9.0.3:
+  dir: packages/postcss-normalize-timing-functions
+  intents:
+    - honest-doors-call
+postcss-normalize-unicode@8.0.2:
+  dir: packages/postcss-normalize-unicode
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-unicode@8.0.3:
+  dir: packages/postcss-normalize-unicode
+  intents:
+    - strong-eggs-do
+postcss-normalize-unicode@8.0.4:
+  dir: packages/postcss-normalize-unicode
+  intents:
+    - salty-dolls-enter
+postcss-normalize-unicode@9.0.0:
+  dir: packages/postcss-normalize-unicode
+  intents:
+    - native-esm-migration
+postcss-normalize-unicode@9.0.1:
+  dir: packages/postcss-normalize-unicode
+  intents:
+    - blue-paws-crash
+postcss-normalize-unicode@9.0.2:
+  dir: packages/postcss-normalize-unicode
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-unicode@9.0.3:
+  dir: packages/postcss-normalize-unicode
+  intents:
+    - honest-doors-call
+postcss-normalize-url@8.0.2:
+  dir: packages/postcss-normalize-url
+  intents:
+    - common-turtles-burn
+    - great-words-wash
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tiny-oranges-kneel
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-url@8.0.3:
+  dir: packages/postcss-normalize-url
+  intents:
+    - strong-eggs-do
+postcss-normalize-url@8.0.4:
+  dir: packages/postcss-normalize-url
+  intents:
+    - salty-dolls-enter
+postcss-normalize-url@9.0.0:
+  dir: packages/postcss-normalize-url
+  intents:
+    - native-esm-migration
+postcss-normalize-url@9.0.1:
+  dir: packages/postcss-normalize-url
+  intents:
+    - blue-paws-crash
+postcss-normalize-url@9.0.2:
+  dir: packages/postcss-normalize-url
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-url@9.0.3:
+  dir: packages/postcss-normalize-url
+  intents:
+    - honest-doors-call
+postcss-normalize-whitespace@8.0.2:
+  dir: packages/postcss-normalize-whitespace
+  intents:
+    - fuzzy-years-spend
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-normalize-whitespace@8.0.3:
+  dir: packages/postcss-normalize-whitespace
+  intents:
+    - strong-eggs-do
+postcss-normalize-whitespace@8.0.4:
+  dir: packages/postcss-normalize-whitespace
+  intents:
+    - salty-dolls-enter
+postcss-normalize-whitespace@8.0.5:
+  dir: packages/postcss-normalize-whitespace
+  intents:
+    - tidy-plums-shout
+postcss-normalize-whitespace@9.0.0:
+  dir: packages/postcss-normalize-whitespace
+  intents:
+    - native-esm-migration
+postcss-normalize-whitespace@9.0.1:
+  dir: packages/postcss-normalize-whitespace
+  intents:
+    - blue-paws-crash
+postcss-normalize-whitespace@9.0.2:
+  dir: packages/postcss-normalize-whitespace
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-normalize-whitespace@9.0.3:
+  dir: packages/postcss-normalize-whitespace
+  intents:
+    - honest-doors-call
+postcss-ordered-values@8.0.2:
+  dir: packages/postcss-ordered-values
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-ordered-values@8.0.3:
+  dir: packages/postcss-ordered-values
+  intents:
+    - strong-eggs-do
+postcss-ordered-values@8.0.4:
+  dir: packages/postcss-ordered-values
+  intents:
+    - salty-dolls-enter
+postcss-ordered-values@8.0.5:
+  dir: packages/postcss-ordered-values
+  intents:
+    - cool-toes-fail
+postcss-ordered-values@9.0.0:
+  dir: packages/postcss-ordered-values
+  intents:
+    - native-esm-migration
+postcss-ordered-values@9.0.1:
+  dir: packages/postcss-ordered-values
+  intents:
+    - blue-paws-crash
+postcss-ordered-values@9.0.2:
+  dir: packages/postcss-ordered-values
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-ordered-values@9.0.3:
+  dir: packages/postcss-ordered-values
+  intents:
+    - honest-doors-call
+postcss-reduce-idents@8.0.2:
+  dir: packages/postcss-reduce-idents
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-reduce-idents@8.0.3:
+  dir: packages/postcss-reduce-idents
+  intents:
+    - strong-eggs-do
+postcss-reduce-idents@8.0.4:
+  dir: packages/postcss-reduce-idents
+  intents:
+    - salty-dolls-enter
+    - tall-moons-repeat
+    - tame-otters-swim
+postcss-reduce-idents@9.0.0:
+  dir: packages/postcss-reduce-idents
+  intents:
+    - native-esm-migration
+postcss-reduce-idents@9.0.1:
+  dir: packages/postcss-reduce-idents
+  intents:
+    - blue-paws-crash
+postcss-reduce-idents@9.0.2:
+  dir: packages/postcss-reduce-idents
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-reduce-idents@9.0.3:
+  dir: packages/postcss-reduce-idents
+  intents:
+    - honest-doors-call
+postcss-reduce-initial@8.0.2:
+  dir: packages/postcss-reduce-initial
+  intents:
+    - great-words-wash
+    - legal-experts-draw
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-reduce-initial@8.0.3:
+  dir: packages/postcss-reduce-initial
+  intents:
+    - strong-eggs-do
+postcss-reduce-initial@8.0.4:
+  dir: packages/postcss-reduce-initial
+  intents:
+    - salty-dolls-enter
+    - vast-llamas-sleep
+postcss-reduce-initial@8.0.5:
+  dir: packages/postcss-reduce-initial
+  intents:
+    - fast-radios-love
+postcss-reduce-initial@9.0.0:
+  dir: packages/postcss-reduce-initial
+  intents:
+    - native-esm-migration
+postcss-reduce-initial@9.0.1:
+  dir: packages/postcss-reduce-initial
+  intents:
+    - blue-paws-crash
+postcss-reduce-initial@9.0.2:
+  dir: packages/postcss-reduce-initial
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-reduce-initial@9.0.3:
+  dir: packages/postcss-reduce-initial
+  intents:
+    - honest-doors-call
+postcss-reduce-transforms@8.0.2:
+  dir: packages/postcss-reduce-transforms
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-reduce-transforms@8.0.3:
+  dir: packages/postcss-reduce-transforms
+  intents:
+    - strong-eggs-do
+postcss-reduce-transforms@8.0.4:
+  dir: packages/postcss-reduce-transforms
+  intents:
+    - salty-dolls-enter
+postcss-reduce-transforms@9.0.0:
+  dir: packages/postcss-reduce-transforms
+  intents:
+    - native-esm-migration
+postcss-reduce-transforms@9.0.1:
+  dir: packages/postcss-reduce-transforms
+  intents:
+    - blue-paws-crash
+postcss-reduce-transforms@9.0.2:
+  dir: packages/postcss-reduce-transforms
+  intents:
+    - khaki-colts-stop
+    - ninety-mangos-send
+    - violet-ads-ask
+postcss-reduce-transforms@9.0.3:
+  dir: packages/postcss-reduce-transforms
+  intents:
+    - honest-doors-call
+postcss-svgo@8.0.2:
+  dir: packages/postcss-svgo
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-svgo@8.0.3:
+  dir: packages/postcss-svgo
+  intents:
+    - every-teeth-stay
+    - petite-cobras-send
+postcss-svgo@8.0.4:
+  dir: packages/postcss-svgo
+  intents:
+    - strong-eggs-do
+postcss-svgo@8.0.5:
+  dir: packages/postcss-svgo
+  intents:
+    - salty-dolls-enter
+postcss-svgo@8.0.6:
+  dir: packages/postcss-svgo
+  intents:
+    - goofy-spiders-marry
+postcss-svgo@9.0.0:
+  dir: packages/postcss-svgo
+  intents:
+    - native-esm-migration
+postcss-svgo@9.0.1:
+  dir: packages/postcss-svgo
+  intents:
+    - blue-paws-crash
+postcss-svgo@9.0.2:
+  dir: packages/postcss-svgo
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-svgo@9.0.3:
+  dir: packages/postcss-svgo
+  intents:
+    - honest-doors-call
+    - proud-melons-scream
+postcss-unique-selectors@8.0.2:
+  dir: packages/postcss-unique-selectors
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-unique-selectors@8.0.3:
+  dir: packages/postcss-unique-selectors
+  intents:
+    - strong-eggs-do
+postcss-unique-selectors@8.0.4:
+  dir: packages/postcss-unique-selectors
+  intents:
+    - salty-dolls-enter
+postcss-unique-selectors@9.0.0:
+  dir: packages/postcss-unique-selectors
+  intents:
+    - native-esm-migration
+postcss-unique-selectors@9.0.1:
+  dir: packages/postcss-unique-selectors
+  intents:
+    - blue-paws-crash
+postcss-unique-selectors@9.0.2:
+  dir: packages/postcss-unique-selectors
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-unique-selectors@9.0.3:
+  dir: packages/postcss-unique-selectors
+  intents:
+    - honest-doors-call
+postcss-zindex@8.0.2:
+  dir: packages/postcss-zindex
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+postcss-zindex@8.0.3:
+  dir: packages/postcss-zindex
+  intents:
+    - strong-eggs-do
+postcss-zindex@8.0.4:
+  dir: packages/postcss-zindex
+  intents:
+    - salty-dolls-enter
+postcss-zindex@9.0.0:
+  dir: packages/postcss-zindex
+  intents:
+    - native-esm-migration
+postcss-zindex@9.0.1:
+  dir: packages/postcss-zindex
+  intents:
+    - blue-paws-crash
+postcss-zindex@9.0.2:
+  dir: packages/postcss-zindex
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+postcss-zindex@9.0.3:
+  dir: packages/postcss-zindex
+  intents:
+    - honest-doors-call
+stylehacks@8.0.2:
+  dir: packages/stylehacks
+  intents:
+    - great-words-wash
+    - pink-seas-end
+    - sour-insects-bathe
+    - sunny-bags-smell
+    - tough-planes-say
+    - tough-snails-behave
+stylehacks@8.0.3:
+  dir: packages/stylehacks
+  intents:
+    - strong-eggs-do
+stylehacks@8.0.4:
+  dir: packages/stylehacks
+  intents:
+    - salty-dolls-enter
+stylehacks@9.0.0:
+  dir: packages/stylehacks
+  intents:
+    - native-esm-migration
+stylehacks@9.0.1:
+  dir: packages/stylehacks
+  intents:
+    - whole-spoons-try
+stylehacks@9.0.2:
+  dir: packages/stylehacks
+  intents:
+    - blue-paws-crash
+stylehacks@9.0.3:
+  dir: packages/stylehacks
+  intents:
+    - khaki-colts-stop
+    - violet-ads-ask
+stylehacks@9.0.4:
+  dir: packages/stylehacks
+  intents:
+    - honest-doors-call

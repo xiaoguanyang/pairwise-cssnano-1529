@@ -1,0 +1,27 @@
+{
+  "name": "example-cli-usage",
+  "private": true,
+  "dependencies": {
+    "cssnano": "^9.0.0",
+    "postcss": "^8.4.4",
+    "postcss-cli": "^11.0.0"
+  },
+  "scripts": {
+    "minify": "postcss input.css > output.css"
+  },
+  "repository": "cssnano/cssnano",
+  "homepage": "https://github.com/cssnano/cssnano",
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "engines": {
+    "node": "^18 || ^20 || >=22.0"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "https://beneb.info"
+  },
+  "version": "5.0.3"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-reporter=dot && pnpm typecheck",
+    "typecheck": "astro sync && tsc --project tsconfig.json",
+    "start": "astro dev",
+    "build": "astro build",
+    "check:astro": "pnpm build && node util/check-astro-artifacts.mjs"
+  },
+  "dependencies": {
+    "cssnano-preset-advanced": "link:../packages/cssnano-preset-advanced",
+    "cssnano-preset-default": "link:../packages/cssnano-preset-default",
+    "cssnano-preset-lite": "link:../packages/cssnano-preset-lite",
+    "postcss": "^8.5.28",
+    "svgo": "^4.1.0"
+  },
+  "devDependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.3.3",
+    "cssnano": "link:../packages/cssnano",
+    "typescript": "~7.0.2"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.4.2"
+    }
+  },
+  "browserslist": [
+    "defaults and baseline widely available with downstream"
+  ]
+}

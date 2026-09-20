@@ -1,0 +1,47 @@
+{
+  "name": "cssnano-core",
+  "private": true,
+  "scripts": {
+    "lint": "pnpm types && oxlint . && oxfmt --check",
+    "fixlint": "oxfmt . && pnpm oxlint --fix .",
+    "build:integration": "node ./util/buildFrameworks.mjs",
+    "bench": "node ./util/benchmark/bench.mjs",
+    "bench:profile": "node ./util/benchmark/bench.mjs --profile",
+    "bench:compare": "node ./util/benchmark/compare-bench.mjs",
+    "bench:analyze": "node ./util/benchmark/analyze-cpuprofile.mjs",
+    "test": "pnpm lint && pnpm test:unit && pnpm test:site && pnpm test:integration",
+    "test:coverage": "cd packages && node --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=../lcov.info",
+    "test:unit": "pnpm --recursive --workspace-concurrency=1 exec node --test --test-reporter=dot --test-skip-pattern=\"framework tests\"",
+    "test:site": "node --test site/test/*.js",
+    "test:integration": "node --test packages/cssnano-preset-default/test/integrations.js packages/cssnano-preset-advanced/test/integrations.js packages/cssnano-preset-lite/test/integrations.js",
+    "test:packaging": "node util/checkPackaging.mjs",
+    "test:watch": "node --test --watch",
+    "test:failed": "node --test --test-rerun-failures=.test-failures.json",
+    "test:mutation": "node util/mutation-testing/mutation-runner.mjs --catalog packages/postcss-discard-empty/mutation-catalog.mjs --catalog packages/postcss-discard-comments/mutation-catalog.mjs --catalog packages/postcss-normalize-whitespace/mutation-catalog.mjs",
+    "types": "tsc -b",
+    "all-publish": "pnpm publish -r"
+  },
+  "engines": {
+    "node": "^22.22.3 || ^24.15.0 || >=26.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.1",
+    "knip": "^6.37.0",
+    "oxfmt": "^0.68.0",
+    "oxlint": "^1.83.0",
+    "postcss": "catalog:",
+    "resolve": "^1.22.12",
+    "typescript": "~7.0.2"
+  },
+  "browserslist": {
+    "production": [
+      "IE 11 and last 2 versions"
+    ]
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.4.2"
+    }
+  }
+}
